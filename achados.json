@@ -1,5 +1,94 @@
 [
   {
+    "numero": 8,
+    "slug": "lixeira-sensor-16l",
+    "titulo": "Lixeira com sensor automático de 16 litros",
+    "categoria": "casa",
+    "resumo": "A tampa da lixeira abre sem você encostar nela.",
+    "fatos": [
+      "A tampa abre sozinha quando a mão ou um objeto se aproxima, por sensor infravermelho",
+      "Fecha sozinha depois de cerca de 5 segundos",
+      "Também abre por botões ou com um toque na parte de baixo",
+      "Capacidade de 16 litros; mede 26 cm x 33 cm x 24 cm",
+      "Bateria recarregável por cabo USB, que acompanha; segundo o anúncio, dura até 6 meses",
+      "Feita de plástico ABS",
+      "Segundo o anúncio, a cor e o formato enviados podem variar",
+      "Na Shopee, tem nota 4,9 com mais de 1.600 avaliações e mais de 4 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/4LK11OUPTA"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg"
+    ],
+    "publicado": "2026-10-09T19:30:46.482Z"
+  },
+  {
+    "numero": 7,
+    "slug": "varal-torre-dobravel",
+    "titulo": "Varal dobrável em torre, 3 andares com rodinhas",
+    "categoria": "lavanderia",
+    "resumo": "Um varal de 3 andares que dobra para guardar",
+    "fatos": [
+      "Varal vertical de 3 andares em aço inoxidável e plástico ABS",
+      "Tem 6 rodinhas que giram 360 graus",
+      "As prateleiras têm regulagem de altura",
+      "Duas abas laterais para pendurar mais de 10 cabides e uma barra para sapatos",
+      "Suporta até 10 kg e dobra para guardar",
+      "Mede cerca de 167 cm de altura e 73,5 cm de largura, e pesa 2 kg",
+      "Na Shopee, tem nota 4,9 com mais de 400 avaliações e mais de mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/2BFWXiudTh"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-10-09T19:25:49.989Z"
+  },
+  {
+    "numero": 6,
+    "slug": "esfregao-giratorio-360",
+    "titulo": "Esfregão giratório 360° com torção (Mop Twist)",
+    "categoria": "limpeza",
+    "resumo": "Um esfregão que torce o pano sem você pôr a mão",
+    "fatos": [
+      "A cabeça gira 360 graus para alcançar cantos e embaixo dos móveis",
+      "Tem sistema de torção para torcer o pano sem pôr a mão",
+      "Pano de microfibra de 38 cm, reutilizável e que pode ir à máquina de lavar",
+      "Cabo de aço inox, desmontável, com 1,30 m",
+      "Segundo o anúncio, substitui o rodo, o pano de chão e o balde",
+      "Segundo o anúncio, a cor enviada (cinza, azul ou verde) depende do estoque",
+      "Na Shopee, tem nota 4,5 com mais de 10 mil avaliações e mais de 10 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/6q1LzoY8Tc"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg"
+    ],
+    "publicado": "2026-10-09T19:14:03.996Z"
+  },
+  {
     "numero": 5,
     "slug": "dispensers-lavanderia",
     "titulo": "Dispensers de lavanderia 1,5 L e 2,3 L com etiquetas",
