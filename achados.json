@@ -1,5 +1,35 @@
 [
   {
+    "numero": 2,
+    "slug": "sacos-vacuo-bomba-manual",
+    "titulo": "Kit 4 sacos a vácuo para roupas com bomba manual",
+    "categoria": "casa e viagem",
+    "resumo": "Quanto espaço cabe num saco sem ar?",
+    "fatos": [
+      "Kit com 4 sacos a vácuo tamanho G, de 70 cm x 110 cm",
+      "Acompanha uma bomba manual; segundo o anúncio, também dá para tirar o ar com aspirador de pó",
+      "Os sacos fecham com zíper e têm válvula para tirar o ar",
+      "São reutilizáveis",
+      "Segundo o anúncio, servem para roupas, cobertores, edredons e toalhas",
+      "Segundo o anúncio, economizam até 70% de espaço",
+      "Marca Magnow",
+      "No Mercado Livre, tem nota 4,8 com mais de 18 mil avaliações e mais de 10 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/1eV1BtS"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg"
+    ],
+    "publicado": "2026-10-09T16:13:51.611Z"
+  },
+  {
     "numero": 1,
     "slug": "cortador-legumes-16-pecas",
     "titulo": "Cortador e fatiador de legumes 16 peças",
