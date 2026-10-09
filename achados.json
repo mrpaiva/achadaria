@@ -1,5 +1,37 @@
 [
   {
+    "numero": 5,
+    "slug": "dispensers-lavanderia",
+    "titulo": "Dispensers de lavanderia 1,5 L e 2,3 L com etiquetas",
+    "categoria": "lavanderia",
+    "resumo": "Cada pote da lavanderia com sua etiqueta e uma tampa que dosa.",
+    "fatos": [
+      "Potes transparentes para sabão líquido, sabão em pó, amaciante, tira-manchas e desinfetante",
+      "Vêm em dois tamanhos: 1,5 litro e 2,3 litros; a combinação do kit é escolhida no anúncio",
+      "A tampa é medidora, para dosar o produto",
+      "Segundo o anúncio, o que sobra na tampa escorre de volta para dentro do pote",
+      "Segundo o anúncio, a vedação é hermética, contra vazamentos",
+      "Acompanha adesivos para identificar o conteúdo de cada pote",
+      "Feitos de poliestireno; o de 2,3 litros mede 26,7 cm de altura",
+      "Na Shopee, tem nota 5 com mais de 3 mil avaliações e mais de 9 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/6AlfCU8A4t"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-10-09T18:56:29.261Z"
+  },
+  {
     "numero": 4,
     "slug": "organizador-pia-inox-3em1",
     "titulo": "Organizador de pia 3 em 1 em inox com dispenser de detergente",
