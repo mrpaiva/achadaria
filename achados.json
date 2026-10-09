@@ -1,5 +1,34 @@
 [
   {
+    "numero": 4,
+    "slug": "organizador-pia-inox-3em1",
+    "titulo": "Organizador de pia 3 em 1 em inox com dispenser de detergente",
+    "categoria": "cozinha",
+    "resumo": "Três coisas da pia num suporte só.",
+    "fatos": [
+      "Junta três coisas num só suporte: dispenser de detergente, lugar para a esponja e lugar para a escova",
+      "Feito de aço inoxidável e plástico ABS, nas cores preta e prata",
+      "Mede 18,8 cm x 18 cm x 12,8 cm",
+      "A base tem furos de drenagem para a água não acumular",
+      "Segundo o anúncio, o dispenser também serve para sabonete líquido e loção",
+      "Na Shopee, tem nota 4,9 com mais de 4 mil avaliações e mais de 8 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/1gJFq7NSCx"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-10-09T18:35:32.385Z"
+  },
+  {
     "numero": 3,
     "slug": "prateleiras-adesivas-box",
     "titulo": "Kit 2 prateleiras adesivas para o box (sem furar)",
