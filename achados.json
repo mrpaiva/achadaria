@@ -1,5 +1,36 @@
 [
   {
+    "numero": 3,
+    "slug": "prateleiras-adesivas-box",
+    "titulo": "Kit 2 prateleiras adesivas para o box (sem furar)",
+    "categoria": "banheiro",
+    "resumo": "Prateleira para o box que dispensa furadeira.",
+    "fatos": [
+      "Kit com 2 prateleiras de metal na cor preta",
+      "Cada prateleira tem 30 cm de comprimento e 13 cm de profundidade",
+      "Instala com adesivo em azulejo ou superfície lisa, sem furar a parede",
+      "Vem com 4 adesivos, 2 para cada prateleira",
+      "Também acompanha 4 parafusos e 4 buchas, para quem preferir furar",
+      "Segundo o anúncio, é à prova d'água e antiferrugem",
+      "Feita para guardar shampoo, sabonete e itens de higiene dentro do box",
+      "No Mercado Livre, tem nota 4,7 com mais de 25 mil avaliações e mais de 100 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/2wM2Gs9"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-10-09T16:47:14.532Z"
+  },
+  {
     "numero": 2,
     "slug": "sacos-vacuo-bomba-manual",
     "titulo": "Kit 4 sacos a vácuo para roupas com bomba manual",
