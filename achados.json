@@ -1,5 +1,316 @@
 [
   {
+    "numero": 18,
+    "slug": "jornal-pet-higienico",
+    "titulo": "Jornal pet higiênico (folhas para xixi de cachorro)",
+    "categoria": "pets",
+    "resumo": "Será que ainda precisa forrar o chão com jornal velho?",
+    "fatos": [
+      "São folhas de papel parecidas com jornal, feitas para forrar o lugar do xixi do pet",
+      "Segundo o anúncio, não é jornal velho nem reutilizado",
+      "Cada folha aberta mede 58 cm por 63 cm; segundo o anúncio, equivale a uma folha de jornal padrão",
+      "Segundo o anúncio, o papel é de alta gramatura, a tinta é à base d'água e as folhas são biodegradáveis",
+      "Vendido em kits de 50, 100, 150 ou 200 folhas",
+      "Segundo o anúncio, serve para cães e também para forrar gaiolas de roedores e aves",
+      "Na Shopee, tem mais de 60 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/3g4LCJrGFM"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg",
+      "foto-7.jpg"
+    ],
+    "publicado": "2026-10-10T09:45:22.171Z"
+  },
+  {
+    "numero": 17,
+    "slug": "vassoura-cantoneira",
+    "titulo": "Vassoura angular para cantos (vem sem cabo)",
+    "categoria": "casa",
+    "resumo": "Uma vassoura angular para varrer cantos, quinas e rodapés.",
+    "fatos": [
+      "É uma vassoura de formato angular, com as cerdas inclinadas, para varrer cantos, quinas e rodapés",
+      "Vem só a vassoura, sem cabo; tem um encaixe de rosca em cima para colocar um cabo",
+      "É de plástico com cerdas sintéticas",
+      "Mede 28 cm de comprimento, 21 cm de altura e pesa 253 g",
+      "Segundo o anúncio, serve para uso interno e externo",
+      "No Mercado Livre, tem nota 4,6 com 180 avaliações e mais de mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/16GopRf"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg",
+      "foto-7.jpg"
+    ],
+    "publicado": "2026-10-10T09:40:54.084Z"
+  },
+  {
+    "numero": 16,
+    "slug": "kit-organizador-mala-7",
+    "titulo": "Kit organizador de mala com 7 bolsas",
+    "categoria": "viagem",
+    "resumo": "Sete bolsas para a mala que sempre vira uma bagunça.",
+    "fatos": [
+      "É um kit de 7 bolsas com zíper para organizar a roupa dentro da mala",
+      "As peças: três bolsas de roupa (extra grande, grande e média), uma de roupas íntimas, uma de higiene, uma para sapato e uma bolsa de cordão para roupa suja",
+      "A maior mede 40 cm por 26 cm",
+      "É de tecido Oxford impermeável; as bolsas de roupa têm painel de tela por cima para ver o que tem dentro",
+      "Tem alça de transporte e, segundo o anúncio, as bolsas dobram",
+      "Vem nas cores rosa, cinza, preto, azul-escuro, azul-turquesa e bege",
+      "No Mercado Livre, tem nota 4,8 com mais de 5 mil avaliações e mais de 10 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/2ypKtvj"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg",
+      "foto-7.jpg"
+    ],
+    "publicado": "2026-10-10T09:36:20.802Z"
+  },
+  {
+    "numero": 15,
+    "slug": "saco-lavar-tenis-kit2",
+    "titulo": "Kit com 2 sacos para lavar tênis na máquina",
+    "categoria": "lavanderia",
+    "resumo": "Dá para lavar tênis na máquina sem ele sacudir solto lá dentro?",
+    "fatos": [
+      "São dois sacos de poliéster, com fechamento em zíper, para lavar tênis e sapatos dentro da máquina de lavar",
+      "Cada saco mede 39 cm de comprimento por 19 cm de largura",
+      "Segundo o anúncio, a malha reforçada amortece o impacto do tênis contra o tambor e reduz o barulho",
+      "Segundo o anúncio, o cursor do zíper fica escondido num protetor, para o saco não abrir durante a lavagem",
+      "Segundo o anúncio, cabe calçado até o número 43/44",
+      "Segundo o anúncio, serve para tênis, sapatilhas, chinelos e sapatos de tecido",
+      "No Mercado Livre, tem nota 4,8 com mais de 2.600 avaliações e mais de 10 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/1X3MnQw"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-10-10T09:27:18.372Z"
+  },
+  {
+    "numero": 14,
+    "slug": "cortador-unha-pet-limitador",
+    "titulo": "Cortador de unha para cães e gatos com limitador de corte",
+    "categoria": "pets",
+    "resumo": "Um alicate de unha de pet que tem um limitador de corte.",
+    "fatos": [
+      "É um alicate de cortar unha de pet, com lâmina de aço inox",
+      "Tem um limitador de corte integrado; segundo o anúncio, ele bloqueia o avanço da lâmina para evitar o contato com o nervo da unha",
+      "O cabo é antiderrapante e tem mola; também tem trava de segurança",
+      "Mede 16 cm de comprimento e não é elétrico",
+      "Segundo o anúncio, é para cães de pequeno a grande porte e gatos adultos, e não é indicado para filhotes nem para unhas finas e delicadas",
+      "Segundo o anúncio, a cor enviada depende do estoque",
+      "No Mercado Livre, tem nota 4,9 com mais de 600 avaliações e mais de mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/2yAseAz"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-10-10T09:18:18.565Z"
+  },
+  {
+    "numero": 13,
+    "slug": "mini-mop-dobravel-pva",
+    "titulo": "Mini mop de mesa com espremedor",
+    "categoria": "casa",
+    "resumo": "Um mecanismo de puxar espreme a esponja sem molhar as mãos.",
+    "fatos": [
+      "É um mini rodo de mão com esponja absorvente, para mesa, bancada e pia",
+      "Tem um mecanismo de puxar que espreme a água da esponja sem molhar as mãos",
+      "Segundo o anúncio, serve para limpeza úmida e seca",
+      "Mede cerca de 15 cm de largura por 13 cm de altura",
+      "Pode ficar em pé na bancada ou pendurado na parede",
+      "Segundo o anúncio, a cor é enviada de forma aleatória",
+      "Na Shopee, tem mais de 7 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/gQjcDDMiO"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg"
+    ],
+    "publicado": "2026-10-10T09:13:23.365Z"
+  },
+  {
+    "numero": 12,
+    "slug": "porta-ovos-gaveteiro-32",
+    "titulo": "Porta-ovos com duas gavetas deslizantes para 32 ovos",
+    "categoria": "cozinha",
+    "resumo": "Trinta e dois ovos em duas gavetas que deslizam.",
+    "fatos": [
+      "Organizador de ovos para geladeira com duas gavetas que deslizam para fora",
+      "Tem 32 cavidades para ovos, divididas nas duas gavetas",
+      "Feito de acrílico, sem tampa e sem alças; pode ser empilhado",
+      "Mede 22 cm de comprimento, 21 cm de largura e 14 cm de altura",
+      "Não é apto para lava-louças",
+      "No Mercado Livre, tem nota 4,9 com mais de 350 avaliações e mais de mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/1zFhVtC"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-10-10T09:08:38.514Z"
+  },
+  {
+    "numero": 11,
+    "slug": "porta-frios-triplo-acrilico",
+    "titulo": "Porta-frios triplo empilhável com tampa",
+    "categoria": "cozinha",
+    "resumo": "Três potes empilhados para os frios da geladeira.",
+    "fatos": [
+      "São três potes de plástico transparente empilhados, com tampa, para guardar frios na geladeira",
+      "Segundo o anúncio, a tampa é hermética e evita que os frios peguem cheiro",
+      "Feito de poliestireno transparente; segundo o anúncio, é livre de BPA",
+      "Cada pote mede 17,5 cm por 14,5 cm; o conjunto de três tem 10 cm de altura",
+      "Também é vendido na versão simples, com um pote, e dupla, com dois",
+      "Segundo o anúncio, não deve ir à lava-louças, ao micro-ondas nem ao freezer",
+      "Na Shopee, tem mais de 20 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/1B2omlPov"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg",
+      "foto-7.jpg"
+    ],
+    "publicado": "2026-10-10T09:03:38.853Z"
+  },
+  {
+    "numero": 10,
+    "slug": "tapioqueira-peneira-pote",
+    "titulo": "Tapioqueira 2 em 1: pote que guarda e peneira a goma",
+    "categoria": "cozinha",
+    "resumo": "Um pote de plástico guarda a goma de tapioca e tem peneira na tampa.",
+    "fatos": [
+      "É um pote de plástico que guarda a goma de tapioca e tem peneira na tampa",
+      "Segundo o anúncio, serve para armazenar, peneirar e aplicar a goma direto na frigideira",
+      "Segundo o anúncio, cabe até 500 g de goma",
+      "Mede 24,5 cm de altura e 10,5 cm de base; o diâmetro interno é de 8,5 cm",
+      "Segundo o anúncio, é fácil de desmontar e de limpar",
+      "Vem nas cores branca, preta, vermelha e azul",
+      "Na Shopee, tem mais de 30 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/W7JPWjcmG"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg",
+      "foto-7.jpg",
+      "foto-8.jpg",
+      "foto-9.jpg"
+    ],
+    "publicado": "2026-10-10T08:58:08.379Z"
+  },
+  {
+    "numero": 9,
+    "slug": "balde-retratil-silicone-10l",
+    "titulo": "Balde retrátil de silicone de 10 litros",
+    "categoria": "casa",
+    "resumo": "Um balde de 10 litros que dobra e fica achatado para guardar.",
+    "fatos": [
+      "Balde de 10 litros que dobra e fica achatado para guardar",
+      "Aberto, tem 24,5 cm de altura; segundo o anúncio, dobrado fica com 5 cm de altura",
+      "Feito de plástico e silicone, com alça",
+      "Segundo o anúncio, acompanha de brinde um gancho adesivo para pendurar o balde na parede",
+      "Segundo o anúncio, a cor é enviada conforme o estoque",
+      "No Mercado Livre, tem nota 4,9 com mais de 2.500 avaliações e mais de 10 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/1mnUuSy"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg",
+      "foto-7.jpg"
+    ],
+    "publicado": "2026-10-10T08:53:03.468Z"
+  },
+  {
     "numero": 8,
     "slug": "lixeira-sensor-16l",
     "titulo": "Lixeira com sensor automático de 16 litros",
