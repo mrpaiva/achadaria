@@ -1,6 +1,12 @@
 <!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Termos de Uso · Achadaria</title><link rel="stylesheet" href="../style.css"><link rel="icon" href="../logo.jpg"></head>
+<title>Termos de Uso · Achadaria</title><link rel="stylesheet" href="../style.css"><link rel="icon" href="../logo.jpg">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5LFX43PNRN"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+var consent=null;try{consent=localStorage.getItem("consent")}catch(e){}
+gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:consent==="sim"?"granted":"denied"});
+gtag("js",new Date());gtag("config","G-5LFX43PNRN");</script>
+</head>
 <body><header><img src="../logo.jpg" alt="Achadaria"><a href="../">Achadaria</a></header>
 <main><nav><a href="../">Início</a><a href="../termos/">Termos de Uso</a><a href="../privacidade/">Política de Privacidade</a></nav>
 <h1>Termos de Uso</h1>
@@ -19,4 +25,10 @@
 <p>Estes termos podem ser atualizados. A data no topo indica a última versão.</p>
 <h2>7. Contato</h2>
 <p>Dúvidas: abra uma mensagem em <a href="https://github.com/mrpaiva/achadaria/issues">github.com/mrpaiva/achadaria/issues</a> ou envie uma mensagem direta para <a href="https://www.tiktok.com/@achadariaoficial">@achadariaoficial</a>.</p>
-</main><footer>Achadaria · <a href="https://www.tiktok.com/@achadariaoficial">@achadariaoficial no TikTok</a> · <a href="https://github.com/mrpaiva/achadaria/issues">Contato</a></footer></body></html>
+</main><footer>Achadaria · <a href="https://www.tiktok.com/@achadariaoficial">@achadariaoficial no TikTok</a> · <a href="https://github.com/mrpaiva/achadaria/issues">Contato</a></footer><div id="cookies" class="cookies" hidden><p>Usamos cookies do Google Analytics para contar as visitas e saber quais achados interessam mais. <a href="../privacidade/">Saiba mais</a></p><button type="button" data-c="sim">Aceitar</button><button type="button" data-c="nao" class="sec">Recusar</button></div>
+<script>(function(){var b=document.getElementById("cookies");if(!consent)b.hidden=false;
+b.onclick=function(e){var v=e.target.getAttribute("data-c");if(!v)return;try{localStorage.setItem("consent",v)}catch(x){}
+if(v==="sim")gtag("consent","update",{analytics_storage:"granted"});b.hidden=true};
+document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a[data-loja]");
+if(a)gtag("event","clique_loja",{achado:a.getAttribute("data-achado"),loja:a.getAttribute("data-loja")})})})();</script>
+</body></html>
