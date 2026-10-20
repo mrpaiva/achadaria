@@ -4,13 +4,13 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5LFX43PNRN"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
 var consent=null;try{consent=localStorage.getItem("consent")}catch(e){}
-gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:consent==="sim"?"granted":"denied"});
+gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:consent==="nao"?"denied":"granted"});
 gtag("js",new Date());gtag("config","G-5LFX43PNRN");</script>
 </head>
 <body><header><img src="../logo.jpg" alt="Achadaria"><a href="../">Achadaria</a></header>
 <main><nav><a href="../">Início</a><a href="../termos/">Termos de Uso</a><a href="../privacidade/">Política de Privacidade</a></nav>
 <h1>Política de Privacidade</h1>
-<p class="muted">Última atualização: 19 de outubro de 2026</p>
+<p class="muted">Última atualização: 20 de outubro de 2026</p>
 <h2>1. Quem somos</h2>
 <p>Esta política vale para o site da Achadaria e para o Achadaria Studio, ferramenta de computador usada pelo criador do canal <a href="https://www.tiktok.com/@achadariaoficial">@achadariaoficial</a>.</p>
 <h2>2. Dados que tratamos</h2>
@@ -20,18 +20,18 @@ gtag("js",new Date());gtag("config","G-5LFX43PNRN");</script>
 <h2>4. Onde ficam guardados</h2>
 <p>O token fica salvo apenas no computador do usuário, em arquivo local. Não há servidor da Achadaria armazenando dados de usuários.</p>
 <h2>4.1. Medição de visitas no site</h2>
-<p>O site usa o Google Analytics para contar as visitas, saber quais páginas e achados são mais vistos e quantas pessoas clicam nos botões das lojas. Os cookies de medição só são gravados se você clicar em "Aceitar" no aviso de cookies; se recusar, o Google Analytics funciona sem cookies e sem identificar o seu navegador. Os dados são agregados, não incluem nome, e-mail nem outros dados pessoais, e não são usados para anúncios. O Google trata esses dados conforme a <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a>. Para mudar sua escolha, apague os dados do site no seu navegador e o aviso aparecerá de novo.</p>
+<p>O site usa o Google Analytics por padrão para contar as visitas, saber quais páginas e achados são mais vistos e quantas pessoas clicam nos botões das lojas. A medição é agregada, não inclui nome, e-mail nem outros dados pessoais e não é usada para anúncios; ela se baseia no legítimo interesse da Achadaria em entender o uso do site (LGPD, art. 7º, IX). Se você clicar em "Recusar" no aviso de cookies, deixa de ser medido. O Google trata esses dados conforme a <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a>. Para mudar sua escolha, basta apagar os dados do site no seu navegador e o aviso aparecerá de novo.</p>
 <h2>5. Retenção e exclusão</h2>
 <p>O usuário pode apagar o arquivo do token a qualquer momento e revogar o acesso nas configurações do TikTok (Segurança › Apps e serviços com permissão). Após a revogação, o token deixa de funcionar.</p>
 <h2>6. Seus direitos (LGPD)</h2>
 <p>Você pode pedir informações, correção ou exclusão de dados pelos canais de contato abaixo.</p>
 <h2>7. Contato</h2>
 <p>Abra uma mensagem em <a href="https://github.com/mrpaiva/achadaria/issues">github.com/mrpaiva/achadaria/issues</a> ou envie uma mensagem direta para <a href="https://www.tiktok.com/@achadariaoficial">@achadariaoficial</a>.</p>
-<p class="muted">English summary: Achadaria Studio receives a TikTok access token and basic profile info only for the account that authorizes it, stores the token locally on the creator's computer, uses it solely to upload videos to that account, and never sells or shares data. The website uses Google Analytics for aggregate visit counts; analytics cookies are set only after you accept the cookie notice. Revoke access anytime in TikTok settings.</p>
-</main><footer>Achadaria · <a href="https://www.tiktok.com/@achadariaoficial">@achadariaoficial no TikTok</a> · <a href="https://github.com/mrpaiva/achadaria/issues">Contato</a></footer><div id="cookies" class="cookies" hidden><p>Usamos cookies do Google Analytics para contar as visitas e saber quais achados interessam mais. <a href="../privacidade/">Saiba mais</a></p><button type="button" data-c="sim">Aceitar</button><button type="button" data-c="nao" class="sec">Recusar</button></div>
+<p class="muted">English summary: Achadaria Studio receives a TikTok access token and basic profile info only for the account that authorizes it, stores the token locally on the creator's computer, uses it solely to upload videos to that account, and never sells or shares data. The website uses Google Analytics by default for aggregate visit counts (no names, emails or ads), based on legitimate interest; click "Recusar" (Decline) on the cookie notice to opt out. Revoke access anytime in TikTok settings.</p>
+</main><footer>Achadaria · <a href="https://www.tiktok.com/@achadariaoficial">@achadariaoficial no TikTok</a> · <a href="https://github.com/mrpaiva/achadaria/issues">Contato</a></footer><div id="cookies" class="cookies" hidden><p>Usamos cookies do Google Analytics para contar as visitas, sem identificar você. <a href="../privacidade/">Saiba mais</a></p><button type="button" data-c="sim">Ok</button><button type="button" data-c="nao" class="sec">Recusar</button></div>
 <script>(function(){var b=document.getElementById("cookies");if(!consent)b.hidden=false;
 b.onclick=function(e){var v=e.target.getAttribute("data-c");if(!v)return;try{localStorage.setItem("consent",v)}catch(x){}
-if(v==="sim")gtag("consent","update",{analytics_storage:"granted"});b.hidden=true};
+if(v==="nao")gtag("consent","update",{analytics_storage:"denied"});b.hidden=true};
 document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a[data-loja]");
 if(a)gtag("event","clique_loja",{achado:a.getAttribute("data-achado"),loja:a.getAttribute("data-loja")})})})();</script>
 </body></html>
