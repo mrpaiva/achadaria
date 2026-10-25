@@ -1,5 +1,37 @@
 [
   {
+    "numero": 89,
+    "slug": "suporte-peito-celular",
+    "titulo": "Suporte de peito para celular ou GoPro",
+    "categoria": "esportes",
+    "resumo": "como gravar trilha e bicicleta com mãos livres",
+    "fatos": [
+      "É uma alça elástica de peito, com duas alças de ombro e uma faixa na cintura com fivela, e uma base no centro onde prende o suporte",
+      "Segundo o anúncio, serve para celulares Android e iPhone e para câmeras GoPro",
+      "O anúncio avisa que não vem com celular nem câmera",
+      "Segundo o anúncio, as alças são ajustáveis e se adaptam a qualquer corpo",
+      "O clipe do celular gira: pelas fotos do anúncio, o celular pode ficar na vertical ou na horizontal",
+      "Pelas fotos, vêm a alça de peito, uma fivela de gancho, um parafuso longo, um adaptador e o clipe de celular",
+      "Segundo o anúncio, deixa as mãos livres para gravar caminhando, correndo ou andando de bicicleta",
+      "Segundo o anúncio, instala e ajusta em alguns segundos",
+      "Na Shopee, tem nota 4,9 com mais de 14 mil avaliações e mais de 30 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/50a717zofZ"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-10-25T13:39:39.304Z"
+  },
+  {
     "numero": 88,
     "slug": "forma-gelo-pote-tampa",
     "titulo": "Forma de gelo com pote e tampa que solta os 28 cubos",
