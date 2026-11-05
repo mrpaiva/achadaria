@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://achadaria.com/sitemap.xml
