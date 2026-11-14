@@ -1,5 +1,37 @@
 [
   {
+    "numero": 128,
+    "slug": "cofre-livro-dicionario",
+    "titulo": "Cofre com chave em forma de livro (dicionário)",
+    "categoria": "casa",
+    "resumo": "como esconder documentos e dinheiro em casa",
+    "fatos": [
+      "Por fora parece um livro de capa preta, escrito \"The New English Dictionary\" na capa e na lombada",
+      "Ao abrir a capa, por dentro tem uma caixa de metal cinza com fechadura",
+      "Abre com chave, e as chaves vêm junto",
+      "Segundo o anúncio, a ideia é ele ficar na estante no meio dos outros livros sem chamar atenção",
+      "Segundo o anúncio, por fora é revestido de couro sintético",
+      "Na ficha técnica, o anúncio diz que ele não é à prova d'água, não é antichama e não é blindado",
+      "No Mercado Livre, tem mais de mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/1SnTPXm"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-14T16:18:44.949Z",
+    "gancho": "Dinheiro escondido na estante de livros."
+  },
+  {
     "numero": 127,
     "slug": "manta-teflon-grelha-airfryer",
     "titulo": "Manta de teflon antiaderente 40 x 33 cm para grelha e chapa",
@@ -1427,7 +1459,7 @@
     ],
     "publicado": "2026-10-24T11:11:31.082Z",
     "postagens": [
-      "2026-11-13T14:10:00.000Z"
+      "2026-11-13T14:10:44.151Z"
     ],
     "gancho": "Torcer a forma de gelo na pia?",
     "video": "video.mp4",
@@ -1569,7 +1601,7 @@
     ],
     "publicado": "2026-10-24T10:53:13.857Z",
     "postagens": [
-      "2026-11-14T11:10:00.000Z"
+      "2026-11-14T11:10:45.006Z"
     ],
     "gancho": "Arrancar mato agachado, com a mão?",
     "video": "video.mp4",
@@ -1607,7 +1639,7 @@
     ],
     "publicado": "2026-10-24T10:48:51.158Z",
     "postagens": [
-      "2026-11-14T14:10:00.000Z"
+      "2026-11-14T14:10:50.388Z"
     ],
     "gancho": "Caixa cheia de soquete e nenhum serve?",
     "video": "video.mp4",
@@ -1684,7 +1716,7 @@
     ],
     "publicado": "2026-10-24T10:38:23.265Z",
     "postagens": [
-      "2026-11-12T14:10:00.000Z"
+      "2026-11-12T14:10:52.235Z"
     ],
     "gancho": "Tapete de pano encharcado depois do banho?",
     "video": "video.mp4",
@@ -1724,7 +1756,7 @@
     ],
     "publicado": "2026-10-24T10:35:39.022Z",
     "postagens": [
-      "2026-11-13T11:10:00.000Z"
+      "2026-11-13T11:10:50.393Z"
     ],
     "gancho": "Virar garrafão de 20 litros no bebedouro?",
     "video": "video.mp4",
