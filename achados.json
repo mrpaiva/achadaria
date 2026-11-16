@@ -29,7 +29,9 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-14T16:18:44.949Z",
-    "gancho": "Dinheiro escondido na estante de livros."
+    "gancho": "Dinheiro escondido na estante de livros.",
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 127,
@@ -127,7 +129,9 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:58:32.927Z",
-    "gancho": "Recortando curva com estilete grande e rasgando o papel?"
+    "gancho": "Recortando curva com estilete grande e rasgando o papel?",
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 124,
@@ -290,7 +294,7 @@
       "foto-7.jpg"
     ],
     "publicado": "2026-11-12T13:46:50.101Z",
-    "gancho": "Cofrinho que nunca passa de umas moedas?"
+    "gancho": "Tá difícil juntar dinheiro?"
   },
   {
     "numero": 119,
@@ -323,7 +327,9 @@
       "foto-7.jpg"
     ],
     "publicado": "2026-11-12T13:44:38.882Z",
-    "gancho": "Bebê virado pra trás e você torcendo o pescoço?"
+    "gancho": "Bebê virado pra trás e você torcendo o pescoço?",
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 118,
@@ -425,7 +431,7 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:41:39.546Z",
-    "gancho": "Arrastando vaso pesado pra limpar o chão?"
+    "gancho": "Pare de arrastar vaso pesado pela casa."
   },
   {
     "numero": 115,
@@ -493,7 +499,7 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:31:38.948Z",
-    "gancho": "Botijão no chão manchando o piso de ferrugem?"
+    "gancho": "Esse suporte de parede acabou com a ferrugem no chão."
   },
   {
     "numero": 113,
@@ -557,9 +563,6 @@
     ],
     "publicado": "2026-11-02T17:12:04.954Z",
     "gancho": "Abrir a gaveta e a louça sair batendo?",
-    "postagens": [
-      "2026-11-18T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -595,9 +598,6 @@
     ],
     "publicado": "2026-11-02T17:07:08.545Z",
     "gancho": "Alface no saquinho molhado da gaveta?",
-    "postagens": [
-      "2026-11-19T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -631,9 +631,6 @@
     ],
     "publicado": "2026-11-02T17:02:40.420Z",
     "gancho": "Mexer a panela e filmar com a outra mão?",
-    "postagens": [
-      "2026-11-19T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -669,9 +666,6 @@
     ],
     "publicado": "2026-11-02T16:58:08.983Z",
     "gancho": "Ver filme com o celular colado no rosto?",
-    "postagens": [
-      "2026-11-20T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -705,9 +699,6 @@
     ],
     "publicado": "2026-11-02T16:53:31.276Z",
     "gancho": "Caixa de papelão como brinquedo do gato?",
-    "postagens": [
-      "2026-11-25T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -743,9 +734,6 @@
     ],
     "publicado": "2026-11-02T16:48:57.689Z",
     "gancho": "Caçar ferramenta no meio da caixa bagunçada?",
-    "postagens": [
-      "2026-11-20T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -781,9 +769,6 @@
     ],
     "publicado": "2026-11-02T16:43:51.777Z",
     "gancho": "Pé escorregando no piso molhado do box?",
-    "postagens": [
-      "2026-11-25T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -817,9 +802,6 @@
     ],
     "publicado": "2026-11-02T16:34:15.795Z",
     "gancho": "Tirar bolo de cabelo do ralo com a mão?",
-    "postagens": [
-      "2026-11-21T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -855,9 +837,6 @@
     ],
     "publicado": "2026-11-02T16:29:08.912Z",
     "gancho": "Subir na cadeira pra limpar o ventilador?",
-    "postagens": [
-      "2026-11-26T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -891,9 +870,6 @@
     ],
     "publicado": "2026-11-02T16:24:27.713Z",
     "gancho": "Limpar xixi do cachorro na quina da parede?",
-    "postagens": [
-      "2026-11-26T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -929,9 +905,6 @@
     ],
     "publicado": "2026-11-02T16:19:53.972Z",
     "gancho": "Arrastar cadeira e riscar o piso?",
-    "postagens": [
-      "2026-11-21T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -967,9 +940,6 @@
     ],
     "publicado": "2026-11-02T16:38:50.255Z",
     "gancho": "Encher o potinho de ração toda hora?",
-    "postagens": [
-      "2026-11-27T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1007,9 +977,6 @@
     ],
     "publicado": "2026-11-02T16:15:10.050Z",
     "gancho": "Produto de limpeza em armário sem tranca?",
-    "postagens": [
-      "2026-11-27T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1044,9 +1011,6 @@
     ],
     "publicado": "2026-11-02T16:10:38.450Z",
     "gancho": "Abrir massa com garrafa de vidro?",
-    "postagens": [
-      "2026-11-22T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1084,9 +1048,6 @@
     ],
     "publicado": "2026-11-02T16:05:54.366Z",
     "gancho": "Afiar faca no fundo da caneca?",
-    "postagens": [
-      "2026-11-22T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1121,9 +1082,6 @@
     ],
     "publicado": "2026-11-02T16:01:23.281Z",
     "gancho": "Faca solta na gaveta, no meio dos talheres?",
-    "postagens": [
-      "2026-11-23T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1161,9 +1119,6 @@
     ],
     "publicado": "2026-11-02T15:56:37.169Z",
     "gancho": "Arrancar grama que invade o canteiro?",
-    "postagens": [
-      "2026-11-23T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1232,9 +1187,6 @@
     ],
     "publicado": "2026-11-02T15:47:12.810Z",
     "gancho": "Arroz direto do saco, espalhando tudo?",
-    "postagens": [
-      "2026-11-18T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1270,9 +1222,6 @@
     ],
     "publicado": "2026-11-02T15:42:28.565Z",
     "gancho": "Régua e lápis pra fazer linha reta na parede?",
-    "postagens": [
-      "2026-11-24T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1310,9 +1259,6 @@
     ],
     "publicado": "2026-11-02T15:41:10.234Z",
     "gancho": "Pingar água no óleo pra ver se esquentou?",
-    "postagens": [
-      "2026-11-24T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1347,9 +1293,6 @@
     ],
     "publicado": "2026-11-02T15:40:00.402Z",
     "gancho": "Panela suja de óleo pra fazer pipoca?",
-    "postagens": [
-      "2026-11-17T14:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1385,9 +1328,6 @@
     ],
     "publicado": "2026-11-02T15:38:57.770Z",
     "gancho": "Régua e giz pra cortar tecido reto?",
-    "postagens": [
-      "2026-11-17T11:10:00.000Z"
-    ],
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1423,7 +1363,7 @@
     ],
     "publicado": "2026-10-25T13:39:39.304Z",
     "postagens": [
-      "2026-11-15T14:10:00.000Z"
+      "2026-11-15T14:10:50.017Z"
     ],
     "gancho": "Gravar trilha segurando o celular?",
     "video": "video.mp4",
@@ -1677,7 +1617,7 @@
     ],
     "publicado": "2026-10-24T10:41:56.030Z",
     "postagens": [
-      "2026-11-15T11:10:00.000Z"
+      "2026-11-15T11:10:49.831Z"
     ],
     "gancho": "Rasgar etiqueta de encomenda com a mão?",
     "video": "video.mp4",
