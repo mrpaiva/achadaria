@@ -1,5 +1,104 @@
 [
   {
+    "numero": 131,
+    "slug": "bolsa-alca-dourada-transversal",
+    "titulo": "Bolsa de mão com alça dourada em arco e alça transversal",
+    "categoria": "acessórios",
+    "resumo": "o que olhar antes de comprar bolsa de mão",
+    "fatos": [
+      "É uma bolsa pequena e estruturada, com aba arredondada e uma alça de mão em arco dourada",
+      "Segundo o título do anúncio, a ferragem da alça de mão é de plástico",
+      "Vem também uma alça transversal ajustável, que prende nas laterais da bolsa",
+      "Vem em várias cores, como preto, branco, off white, caramelo, caqui, prateada, champanhe e grafite",
+      "O anúncio não informa medidas nem material",
+      "Numa avaliação da Shopee, a cliente diz que a bolsa é compacta, mas cabe muita coisa",
+      "Outra avaliação diz que a cor chegou idêntica à da foto",
+      "Na Shopee, tem nota 4,9 com mais de 14 mil avaliações e mais de 20 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/40iAKiKUtn"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-17T11:01:15.885Z",
+    "gancho": "Bolsa só de mão?"
+  },
+  {
+    "numero": 130,
+    "slug": "bolsa-baguete-aba-alca",
+    "titulo": "Bolsa baguete com aba e alça transversal regulável",
+    "categoria": "acessórios",
+    "resumo": "bolsa baguete do ombro para a transversal",
+    "fatos": [
+      "É uma bolsa baguete pequena e estruturada, com uma aba arredondada na frente e uma alça regulável",
+      "Segundo o anúncio, a alça tem detalhe em metal dourado e dá para deixar do tamanho que preferir, no ombro ou transversal",
+      "Segundo o anúncio, é de material sintético e tem forro interno de cetim",
+      "Segundo o anúncio, mede 26 cm de comprimento e 15 cm de altura",
+      "Vem em várias cores, como preto, branco, bege, rosa, vermelho e marrom caramelo",
+      "Numa avaliação da Shopee, a cliente diz que cabe tranquilamente celular, carteira e itens de maquiagem",
+      "Outra avaliação achou a alça um pouco frágil",
+      "Na Shopee, tem nota 4,9 com mais de 5 mil avaliações"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/4fxr7ZVzgJ"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-17T10:51:50.875Z",
+    "gancho": "Bolsa baguete que vai do ombro pra transversal."
+  },
+  {
+    "numero": 129,
+    "slug": "bebedouro-caes-pelo-longo",
+    "titulo": "Bebedouro automático com disco limitador para cães de pelo longo",
+    "categoria": "pets",
+    "resumo": "como evitar focinho molhado de cachorro",
+    "fatos": [
+      "É um bebedouro automático: um galão transparente de 3 litros fica de cabeça para baixo sobre uma base preta e repõe a água do pote",
+      "No pote vai um disco branco com um furinho no meio; nas fotos do anúncio ele aparece como \"limitador de água\"",
+      "Segundo o anúncio, o bebedouro ajuda a não molhar os pelos do focinho e das orelhas e a manter a área em volta seca",
+      "Segundo o anúncio, é indicado para raças de pelo longo como Yorkshire, Lhasa Apso e Shih Tzu",
+      "A base mede 28 por 17 centímetros e o pote tem 15 centímetros de diâmetro",
+      "É de plástico e não usa pilha nem tomada",
+      "Segundo o anúncio, tem função antiengasgo",
+      "No Mercado Livre, tem nota 4,8 com mais de 3 mil avaliações e mais de 10 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/1WBqVkj"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-17T10:44:31.310Z",
+    "gancho": "Ele bebe pelo furinho do disco."
+  },
+  {
     "numero": 128,
     "slug": "cofre-livro-dicionario",
     "titulo": "Cofre com chave em forma de livro (dicionário)",
@@ -63,7 +162,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T14:01:52.125Z",
-    "gancho": "Queijo coalho derretendo e caindo na brasa?"
+    "gancho": "Queijo coalho derretendo e caindo na brasa?",
+    "postagens": [
+      "2026-11-16T21:10:43.533Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 126,
@@ -97,7 +201,7 @@
       "foto-7.jpg"
     ],
     "publicado": "2026-11-12T13:59:49.215Z",
-    "gancho": "Balançando a varinha pro gato até cansar o braço?"
+    "gancho": "O gato ataca e a pena volta balançando."
   },
   {
     "numero": 125,
@@ -164,7 +268,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:57:07.091Z",
-    "gancho": "Galão de amaciante pingando na prateleira?"
+    "gancho": "Galão de amaciante pingando na prateleira?",
+    "postagens": [
+      "2026-11-17T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 123,
@@ -197,7 +306,7 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:54:05.619Z",
-    "gancho": "Ralando limão no ralador comum e sobrando casca?"
+    "gancho": "Queijo ralado fininho assim, olha."
   },
   {
     "numero": 122,
@@ -229,7 +338,12 @@
       "foto-5.jpg"
     ],
     "publicado": "2026-11-12T13:51:05.921Z",
-    "gancho": "Pedindo pro vizinho dar comida pro peixe na viagem?"
+    "gancho": "Pedindo pro vizinho dar comida pro peixe na viagem?",
+    "postagens": [
+      "2026-11-17T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 121,
@@ -262,7 +376,12 @@
       "foto-7.jpg"
     ],
     "publicado": "2026-11-12T13:48:48.882Z",
-    "gancho": "Saquinho plástico pra levar o celular na praia?"
+    "gancho": "Saquinho plástico pra levar o celular na praia?",
+    "postagens": [
+      "2026-11-18T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 120,
@@ -294,7 +413,7 @@
       "foto-7.jpg"
     ],
     "publicado": "2026-11-12T13:46:50.101Z",
-    "gancho": "Tá difícil juntar dinheiro?"
+    "gancho": "Juntando moeda no potinho, eu sei."
   },
   {
     "numero": 119,
@@ -397,7 +516,12 @@
       "foto-7.jpg"
     ],
     "publicado": "2026-11-12T13:38:23.318Z",
-    "gancho": "Furando a parede pra prender filtro de linha?"
+    "gancho": "Furando a parede pra prender filtro de linha?",
+    "postagens": [
+      "2026-11-18T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 116,
@@ -464,7 +588,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:36:53.431Z",
-    "gancho": "Subindo na cadeira pra tirar teia do teto?"
+    "gancho": "Subindo na cadeira pra tirar teia do teto?",
+    "postagens": [
+      "2026-11-19T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 114,
@@ -499,7 +628,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:31:38.948Z",
-    "gancho": "Esse suporte de parede acabou com a ferrugem no chão."
+    "gancho": "Esse suporte de parede acabou com a ferrugem no chão.",
+    "postagens": [
+      "2026-11-19T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 113,
@@ -1442,7 +1576,7 @@
   },
   {
     "numero": 86,
-    "slug": "porta-ovos-dispenser-4-andares",
+    "slug": "porta-ovos-dispenser-4-andares-g2",
     "titulo": "Porta-ovos dispenser de 4 andares",
     "categoria": "cozinha",
     "resumo": "como organizar ovos na geladeira",
@@ -1469,10 +1603,10 @@
       "foto-5.jpg"
     ],
     "publicado": "2026-10-24T11:01:45.721Z",
+    "gancho": "Ovo na geladeira em fila, um atrás do outro.",
     "postagens": [
-      "2026-11-16T14:10:00.000Z"
+      "2026-11-16T14:10:58.098Z"
     ],
-    "gancho": "Caixa de ovo de papelão na geladeira?",
     "video": "video.mp4",
     "capa": "capa.jpg"
   },
@@ -1505,7 +1639,7 @@
     ],
     "publicado": "2026-10-24T10:57:35.087Z",
     "postagens": [
-      "2026-11-16T11:10:00.000Z"
+      "2026-11-16T11:11:00.675Z"
     ],
     "gancho": "Sugar combustível com a boca?",
     "video": "video.mp4",
@@ -1696,7 +1830,8 @@
     ],
     "publicado": "2026-10-24T10:35:39.022Z",
     "postagens": [
-      "2026-11-13T11:10:50.393Z"
+      "2026-11-13T11:10:50.393Z",
+      "2026-11-20T14:10:00.000Z"
     ],
     "gancho": "Virar garrafão de 20 litros no bebedouro?",
     "video": "video.mp4",
