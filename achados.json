@@ -1,5 +1,99 @@
 [
   {
+    "numero": 139,
+    "slug": "clutch-acetinada-pregas-corrente",
+    "titulo": "Bolsa clutch acetinada com pregas e corrente prateada",
+    "categoria": "acessórios",
+    "resumo": "Pronta pro casamento: clutch de cetim com pregas, fecho de ímã e corrente prateada.",
+    "fatos": [
+      "Bolsa clutch de cetim com pregas verticais na frente e na aba",
+      "Mede 20 cm de comprimento, 10 cm de altura e 5 cm de largura",
+      "Fecha com ímã por dentro",
+      "Vem com corrente prateada: usa na mão ou transversal",
+      "Tem forro interno",
+      "No Mercado Livre, tem nota 4,9 com mais de 800 avaliações e mais de mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/2GV3UKe"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-19T09:19:39.439Z",
+    "gancho": "Pronta pro casamento com essa clutch!"
+  },
+  {
+    "numero": 138,
+    "slug": "organizador-acrilico-cintos-6",
+    "titulo": "Organizador de acrílico com 6 divisórias para cintos e relógios",
+    "categoria": "casa",
+    "resumo": "Cintos enrolados e à vista: organizador de acrílico com 6 divisórias que cabe na gaveta.",
+    "fatos": [
+      "Organizador de acrílico transparente com 6 divisórias, para cintos, gravatas e relógios",
+      "Mede 34 cm de comprimento",
+      "Segundo o anúncio, as divisórias são removíveis",
+      "Cabe na gaveta ou na prateleira do armário",
+      "Vende em kit de 1, 2 ou 3 unidades",
+      "Na Shopee, tem nota 4,9 com mais de 3 mil avaliações"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/2gCoExVwzR"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-19T09:19:37.361Z",
+    "gancho": "Cinto enrolado e à vista, olha só!"
+  },
+  {
+    "numero": 137,
+    "slug": "necessaire-box-inicial",
+    "titulo": "Necessaire box com alça e inicial do nome",
+    "categoria": "acessórios",
+    "resumo": "A inicial do seu nome na necessaire: formato box de nylon, com alça e zíper.",
+    "fatos": [
+      "Necessaire em formato box, de nylon, com a parte de cima creme de bolinhas e a de baixo colorida",
+      "Vem com a inicial escolhida na compra, estampada na frente, com flores",
+      "Mede 18 cm de comprimento, 11 cm de altura e 10 cm de profundidade",
+      "Fecha com zíper e tem uma alça lateral",
+      "É estruturada e não tem forro",
+      "Tem nas cores pink, terracota e preto",
+      "Na Shopee, tem nota 4,9 com mais de 13 mil avaliações"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/70LnOaaiuf"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-19T09:18:22.400Z",
+    "gancho": "A inicial do seu nome na necessaire!"
+  },
+  {
     "numero": 136,
     "slug": "babuche-capivara-plataforma",
     "titulo": "Babuche de capivara com sola plataforma",
@@ -59,7 +153,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-18T10:27:04.357Z",
-    "gancho": "Look pronto!"
+    "gancho": "Look pronto!",
+    "postagens": [
+      "2026-11-24T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 134,
@@ -128,7 +227,12 @@
       "foto-9.jpg"
     ],
     "publicado": "2026-11-17T12:15:17.960Z",
-    "gancho": "Gente, olha essa cozinha de revista!"
+    "gancho": "Gente, olha essa cozinha de revista!",
+    "postagens": [
+      "2026-11-25T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 132,
@@ -160,7 +264,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-18T08:59:19.504Z",
-    "gancho": "Todo brinco à vista!"
+    "gancho": "Todo brinco à vista!",
+    "postagens": [
+      "2026-11-26T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 131,
@@ -231,7 +340,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-17T10:51:50.875Z",
-    "gancho": "Bolsa baguete que vai do ombro pra transversal."
+    "gancho": "Bolsa baguete que vai do ombro pra transversal.",
+    "postagens": [
+      "2026-11-27T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 129,
@@ -561,7 +675,7 @@
     "publicado": "2026-11-12T13:48:48.882Z",
     "gancho": "Saquinho plástico pra levar o celular na praia?",
     "postagens": [
-      "2026-11-18T14:10:00.000Z"
+      "2026-11-18T14:08:00.000Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -1803,7 +1917,8 @@
     "publicado": "2026-10-24T11:01:45.721Z",
     "gancho": "Ovo na geladeira em fila, um atrás do outro.",
     "postagens": [
-      "2026-11-16T14:10:58.098Z"
+      "2026-11-16T14:10:58.098Z",
+      "2026-11-28T14:10:00.000Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
