@@ -1,5 +1,102 @@
 [
   {
+    "numero": 142,
+    "slug": "garrafa-termica-nordica-1l",
+    "titulo": "Garrafa térmica nórdica de 1 litro, creme com cabo amadeirado",
+    "categoria": "cozinha",
+    "resumo": "Mesa do café pronta: garrafa térmica de 1 litro com corpo canelado, aro dourado e cabo amadeirado. Achado 142, link na bio.",
+    "fatos": [
+      "Garrafa térmica de 1 litro com corpo canelado, aro dourado e cabo com acabamento amadeirado",
+      "Por dentro tem ampola de vidro; por fora é de plástico (polipropileno)",
+      "Segundo o anúncio, conserva a bebida quente ou fria por até 6 horas",
+      "Mede cerca de 25,5 cm de altura por 14,5 cm de largura",
+      "Tem nas cores creme, cinza e rosé",
+      "A ampola é de vidro: o anúncio pede cuidado com quedas e impactos",
+      "Xícaras e objetos das fotos não acompanham o produto",
+      "No Mercado Livre, tem nota 4,7 com mais de 900 avaliações e mais de 5 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/2DkKEuv"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-11-23T11:31:12.468Z",
+    "gancho": "Mesa do café pronta com essa garrafa térmica!"
+  },
+  {
+    "numero": 141,
+    "slug": "saia-midi-tule-flores-3d",
+    "titulo": "Saia midi de tule com flores 3D",
+    "categoria": "roupas",
+    "resumo": "Look de festa pronto: saia midi de tule com flores em relevo e forro por dentro. Achado 141, link na bio.",
+    "fatos": [
+      "Saia midi de tule com flores em relevo (3D) e ramos bordados",
+      "Tem forro interno; o próprio anúncio avisa que há leve transparência",
+      "Segundo o anúncio, é 100% poliéster",
+      "Cintura alta, modelo evasê (formato A)",
+      "Vem nos tamanhos P/M, M/G e G/GG; o anúncio tem tabela de medidas",
+      "Tem em rosa, azul-claro, branco, bege, verde, preto, caramelo, marrom, azul-marinho e vinho",
+      "Nas avaliações da Shopee, clientes dizem que o tecido é leve e delicado e que tem bom caimento",
+      "Na Shopee, tem nota 4,9 com mais de 900 avaliações e mais de 2 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/60TOJ4LWmx"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-23T11:23:43.068Z",
+    "gancho": "Look de festa pronto!"
+  },
+  {
+    "numero": 140,
+    "slug": "sandalia-saltinho-laco",
+    "titulo": "Sandália de saltinho grosso com laço",
+    "categoria": "calçados",
+    "resumo": "Look pronto: saltinho de laço com salto quadrado e fivela no tornozelo. Nas avaliações, elogio pro conforto. Achado 140, link na bio.",
+    "fatos": [
+      "Sandália feminina com laço na tira da frente e tira no tornozelo com fivela",
+      "Salto quadrado e grosso, de altura média",
+      "Material sintético e sola de PVC",
+      "Segundo o anúncio, o solado é antiderrapante",
+      "Tem do 34 ao 40",
+      "Cada par vem em caixa individual, segundo o anúncio",
+      "O resumo das avaliações no Mercado Livre diz que ela é elogiada pelo conforto e pela leveza",
+      "No Mercado Livre, tem nota 4,8 com mais de 8 mil avaliações e mais de 10 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://meli.la/2dmQ9Jc"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg"
+    ],
+    "publicado": "2026-11-23T11:17:30.093Z",
+    "gancho": "Look pronto com esse saltinho de laço!"
+  },
+  {
     "numero": 139,
     "slug": "clutch-acetinada-pregas-corrente",
     "titulo": "Bolsa clutch acetinada com pregas e corrente prateada",
@@ -59,7 +156,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-19T09:19:37.361Z",
-    "gancho": "Cinto enrolado e à vista, olha só!"
+    "gancho": "Cinto enrolado e à vista, olha só!",
+    "postagens": [
+      "2026-11-29T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 137,
@@ -91,7 +193,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-19T09:18:22.400Z",
-    "gancho": "A inicial do seu nome na necessaire!"
+    "gancho": "A inicial do seu nome na necessaire!",
+    "postagens": [
+      "2026-11-29T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 136,
@@ -121,7 +228,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-18T10:32:24.712Z",
-    "gancho": "Capivara no pé!"
+    "gancho": "Capivara no pé!",
+    "postagens": [
+      "2026-11-28T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 135,
@@ -189,7 +301,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-18T10:28:38.166Z",
-    "gancho": "Óculos com perna de sapo!"
+    "gancho": "Óculos com perna de sapo!",
+    "postagens": [
+      "2026-11-30T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 133,
@@ -304,7 +421,7 @@
     "publicado": "2026-11-17T11:01:15.885Z",
     "gancho": "Bolsa só de mão?",
     "postagens": [
-      "2026-11-20T21:10:00.000Z"
+      "2026-11-20T21:10:52.894Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -380,7 +497,7 @@
     "publicado": "2026-11-17T10:44:31.310Z",
     "gancho": "Ele bebe pelo furinho do disco.",
     "postagens": [
-      "2026-11-21T14:10:00.000Z"
+      "2026-11-21T14:10:52.670Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -490,7 +607,7 @@
     "publicado": "2026-11-12T13:59:49.215Z",
     "gancho": "O gato ataca e a pena volta balançando.",
     "postagens": [
-      "2026-11-21T21:10:00.000Z"
+      "2026-11-21T21:10:47.248Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -600,7 +717,7 @@
     "publicado": "2026-11-12T13:54:05.619Z",
     "gancho": "Queijo ralado fininho assim, olha.",
     "postagens": [
-      "2026-11-22T14:10:00.000Z"
+      "2026-11-22T14:10:57.418Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -712,7 +829,7 @@
     "publicado": "2026-11-12T13:46:50.101Z",
     "gancho": "Juntando moeda no potinho, eu sei.",
     "postagens": [
-      "2026-11-22T21:10:00.000Z"
+      "2026-11-22T21:10:51.673Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -784,7 +901,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-12T13:40:43.804Z",
-    "gancho": "Procurando a chave de novo no sofá?"
+    "gancho": "Procurando a chave de novo no sofá?",
+    "postagens": [
+      "2026-11-30T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 117,
@@ -820,7 +942,7 @@
     "publicado": "2026-11-12T13:38:23.318Z",
     "gancho": "Furando a parede pra prender filtro de linha?",
     "postagens": [
-      "2026-11-18T21:10:00.000Z"
+      "2026-11-18T21:10:49.203Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -897,7 +1019,7 @@
     "publicado": "2026-11-12T13:36:53.431Z",
     "gancho": "Subindo na cadeira pra tirar teia do teto?",
     "postagens": [
-      "2026-11-19T14:10:00.000Z"
+      "2026-11-19T14:10:52.112Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -937,7 +1059,7 @@
     "publicado": "2026-11-12T13:31:38.948Z",
     "gancho": "Esse suporte de parede acabou com a ferrugem no chão.",
     "postagens": [
-      "2026-11-19T21:10:00.000Z"
+      "2026-11-19T21:10:53.144Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
@@ -2144,7 +2266,7 @@
     "publicado": "2026-10-24T10:35:39.022Z",
     "postagens": [
       "2026-11-13T11:10:50.393Z",
-      "2026-11-20T14:10:00.000Z"
+      "2026-11-20T14:10:53.276Z"
     ],
     "gancho": "Virar garrafão de 20 litros no bebedouro?",
     "video": "video.mp4",
