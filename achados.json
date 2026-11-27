@@ -56,7 +56,12 @@
       "foto-5.jpg"
     ],
     "publicado": "2026-11-26T15:59:32.524Z",
-    "gancho": "Organizadores de acrílico que você monta do seu jeito."
+    "gancho": "Organizadores de acrílico que você monta do seu jeito.",
+    "postagens": [
+      "2026-12-12T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 168,
@@ -87,7 +92,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-26T15:57:28.991Z",
-    "gancho": "Peitoral e guia da mesma estampa."
+    "gancho": "Peitoral e guia da mesma estampa.",
+    "postagens": [
+      "2026-12-12T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 166,
@@ -148,7 +158,12 @@
       "foto-6.jpg"
     ],
     "publicado": "2026-11-26T16:01:46.705Z",
-    "gancho": "Essa escova sai cheia de pelo."
+    "gancho": "Essa escova sai cheia de pelo.",
+    "postagens": [
+      "2026-12-13T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 164,
@@ -178,7 +193,12 @@
       "foto-5.jpg"
     ],
     "publicado": "2026-11-26T16:00:51.851Z",
-    "gancho": "Dois óculos quadrados no mesmo kit."
+    "gancho": "Dois óculos quadrados no mesmo kit.",
+    "postagens": [
+      "2026-12-13T21:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 163,
@@ -208,7 +228,12 @@
       "foto-5.jpg"
     ],
     "publicado": "2026-11-26T15:57:52.646Z",
-    "gancho": "Potes de acrílico cristal que se empilham."
+    "gancho": "Potes de acrílico cristal que se empilham.",
+    "postagens": [
+      "2026-12-14T14:10:00.000Z"
+    ],
+    "video": "video.mp4",
+    "capa": "capa.jpg"
   },
   {
     "numero": 162,
@@ -335,6 +360,37 @@
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
+  },
+  {
+    "numero": 157,
+    "slug": "kit-2-viseiras-aba-longa",
+    "titulo": "Kit 2 viseiras de malha com aba longa (preto e branco, entre outras cores)",
+    "categoria": "acessórios",
+    "resumo": "Kit com 2 viseiras de aba longa, abertas em cima para o rabo de cavalo passar. Nas avaliações, dizem que a aba é grande e o elástico ajusta bem.",
+    "fatos": [
+      "Kit com 2 viseiras de malha, com a faixa texturizada em ondinhas e a aba canelada; a viseira é aberta em cima",
+      "Dá para escolher a cor de cada uma: preto, branco, bege, cinza, cáqui, rosa, azul, laranja e roxo, entre outras",
+      "Segundo o anúncio, são de poliéster, com elástico, aba de 10 cm e 8 cm de altura",
+      "Segundo o anúncio, protegem do sol e dos raios UV",
+      "Nas avaliações da Shopee, clientes dizem que a aba é grande e que o elástico ajusta bem",
+      "Na Shopee, tem nota 4,9 com mais de 5 mil avaliações e mais de 9 mil vendidos"
+    ],
+    "links": [
+      {
+        "loja": "Shopee",
+        "url": "https://s.shopee.com.br/1W13jw5rL5"
+      }
+    ],
+    "imagens": [
+      "foto-1.jpg",
+      "foto-2.jpg",
+      "foto-3.jpg",
+      "foto-4.jpg",
+      "foto-5.jpg",
+      "foto-6.jpg"
+    ],
+    "publicado": "2026-11-27T10:53:37.253Z",
+    "gancho": "Viseira de aba longa que deixa o rabo de cavalo livre."
   },
   {
     "numero": 155,
@@ -884,7 +940,7 @@
     "publicado": "2026-11-23T11:17:30.093Z",
     "gancho": "Look pronto com esse saltinho de laço!",
     "postagens": [
-      "2026-12-02T23:10:00.000Z"
+      "2026-12-14T21:10:00.000Z"
     ],
     "video": "video.mp4",
     "capa": "capa.jpg"
